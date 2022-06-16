@@ -1,5 +1,5 @@
 # AlgorithmPractice
-leetcode 算法练习
+下一轮计划7月开始，预计6.26左右完成9日集训
 
 ## 月计划
 day1:数组
